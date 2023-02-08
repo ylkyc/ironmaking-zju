@@ -1,6 +1,6 @@
 # The code of blast furnace ironmaking review
 This is the code and data for the paper "A Survey of Data-Driven Soft Sensor Methods for Ironmaking Process: Dataset, Applications, and Directions".
-The real-world data were collected from an iron and steel plant in South China.
+The real-world data were collected from an iron and steel plant in South China after permission.
 
 This work is inpired by the following papers:
 
