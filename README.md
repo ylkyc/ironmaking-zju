@@ -9,9 +9,10 @@ Yan F, Yang C, Zhang X. DSTED: A denoising spatial–temporal encoder–decoder 
 Yan F, Zhang X, Yang C, et al. Data‐Driven Modeling Methods in Sintering Process: Current Research Status and Perspectives[J]. The Canadian Journal of Chemical Engineering.
 
 
-No reprobaiction without permission/ secondary creation(limited to articles). Please cite the corresponding paper if the code and data shown aboved is used in your research.
+# Copyright
+No reprobaiction without permission/ secondary creation(limited to articles). Please cite the corresponding paper if the data and code shown aboved are used in your research.
 
-Copyright by Dr. Feng Yan, Yanrui Li, and Liyuan Kong from Zhejiang University
+Copyright by Dr. Feng Yan, Yanrui Li, and Liyuan Kong from College of Control Science and Engineering, State Key Laboratory of Industrial Control Technology, Zhejiang University.
 
-Contact Me
+# Contact Us
 Email: yanfeng555@zju.edu.cn, liyanrui@zju.edu.cn, and lykong@zju.edu.cn
