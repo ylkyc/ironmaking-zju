@@ -10,7 +10,7 @@ Yan F, Zhang X, Yang C, et al. Data-driven modelling methods in sintering proces
 
 
 # Copyright
-No reprobaiction without permission/ secondary creation(limited to articles). We release the raw data to encourage researchers to conduct more promising studies in the future. By the way, please cite the corresponding paper if the data and code shown aboved are used in your research.
+No reprobation without permission/ secondary creation(limited to articles). We release the raw data to encourage researchers to conduct more promising studies in the future. By the way, please cite the corresponding paper if the data and code shown aboved are used in your research.
 
 Copyright by Dr. Feng Yan, Yanrui Li, and Liyuan Kong from College of Control Science and Engineering, State Key Laboratory of Industrial Control Technology, Zhejiang University. Thanks for Dr. Kong's efforts !
 
