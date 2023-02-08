@@ -2,7 +2,7 @@
 This is the code and data for the paper "A Survey of Data-Driven Soft Sensor Methods for Ironmaking Process: Datasets, Applications, and Directions".
 The real-world data were collected from an iron and steel plant in South China with permission.
 
-This work is inpired by the following papers:
+This work is inspired by the following papers:
 
 Yan F, Yang C, Zhang X. DSTED: A denoising spatial–temporal encoder–decoder framework for multistep prediction of burn-through point in sintering process[J]. IEEE Transactions on Industrial Electronics, 2022, 69(10): 10735-10744.
 
