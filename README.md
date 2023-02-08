@@ -11,4 +11,4 @@ Yan F, Zhang X, Yang C, et al. Data‐Driven Modeling Methods in Sintering Proce
 
 Copyright by Dr. Feng Yan, Yanrui Li, and Liyuan Kong from Zhejiang University
 
-Email: yanfeng555@zju.edu.cn, liyanrui@zju.edu.cn, and 
+Email: yanfeng555@zju.edu.cn, liyanrui@zju.edu.cn, and lykong@zju.edu.cn
