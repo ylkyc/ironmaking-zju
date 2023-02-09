@@ -12,7 +12,7 @@ Yan F, Zhang X, Yang C, et al. Data-driven modelling methods in sintering proces
 If you find the data and code useful in your research, please cite the corresponding paper above.
 
 # Notice 
-This data and code are shared only for research purposes, and cannot be used for any commercial purposes. We release the raw data to encourage researchers to conduct more promising studies in the iron ore sintering and blast furnace ironmaking domains.
+The data and code are shared only for research purposes, and cannot be used for any commercial purposes. We release the raw data to encourage researchers to conduct more promising studies in the iron ore sintering and blast furnace ironmaking domains.
 
 # Copyright
  Copyright by Dr. Feng Yan, Yanrui Li, and Liyuan Kong from College of Control Science and Engineering, State Key Laboratory of Industrial Control Technology, Zhejiang University. Thanks for Dr. Kong's efforts !
