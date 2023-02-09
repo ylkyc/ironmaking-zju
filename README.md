@@ -1,4 +1,5 @@
 # The code of blast furnace ironmaking review
+
 This is the code and data for the paper "A Survey of Data-Driven Soft Sensor Methods for Ironmaking Process: Datasets, Applications, and Directions".
 The real-world data were collected from an iron and steel plant in South China with permission.
 
@@ -8,11 +9,13 @@ Yan F, Yang C, Zhang X. DSTED: A denoising spatial–temporal encoder–decoder 
 
 Yan F, Zhang X, Yang C, et al. Data-driven modelling methods in sintering process : Current research status and perspectives[J]. The Canadian Journal of Chemical Engineering, no. October, pp. 1–17, 2022.
 
+If you find the data and code useful in your research, please cite the corresponding paper above.
+
+# Notice 
+This data and code are shared only for research purposes, and cannot be used for any commercial purposes. We release the raw data to encourage researchers to conduct more promising studies in the iron ore sintering and blast furnace ironmaking domains.
 
 # Copyright
-This data and code are shared only for research purposes, and cannot be used for any commercial purposes. We release the raw data to encourage researchers to conduct more promising studies in the sintering process and blast furnace ironmaking process. If you find the data and code useful in your research, then please cite the corresponding paper above.
-
-Copyright by Dr. Feng Yan, Yanrui Li, and Liyuan Kong from College of Control Science and Engineering, State Key Laboratory of Industrial Control Technology, Zhejiang University. Thanks for Dr. Kong's efforts !
+ Copyright by Dr. Feng Yan, Yanrui Li, and Liyuan Kong from College of Control Science and Engineering, State Key Laboratory of Industrial Control Technology, Zhejiang University. Thanks for Dr. Kong's efforts !
 
 # Contact Us
 Email: yanfeng555@zju.edu.cn(Feng Yan), liyanrui@zju.edu.cn(Yanrui Li), and lykong@zju.edu.cn(Liyuan Kong).
