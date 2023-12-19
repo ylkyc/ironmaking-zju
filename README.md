@@ -1,7 +1,7 @@
 # The data and code of blast furnace ironmaking
 
 This is the code and data for the paper "A Survey of Data-Driven Soft Sensing in Ironmaking Process:
-Methods, Applications, and Opportunities".
+Methods, Applications, and Opportunities". (under review)
 The real-world data were collected from an iron and steel plant in South China with permission.
 
 This work is inspired by the following papers:
