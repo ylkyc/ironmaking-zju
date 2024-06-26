@@ -9,8 +9,6 @@ F. Yan, C. Yang, X. Zhang, C. Yang and Z. Ruan, "BTPNet: A Probabilistic Spatial
 
 Yan F, Yang C, Zhang X. DSTED: A denoising spatial–temporal encoder–decoder framework for multistep prediction of burn-through point in sintering process[J]. IEEE Transactions on Industrial Electronics, 2022, 69(10): 10735-10744.
 
-Yan F, Zhang X, Yang C, et al. Data-driven modelling methods in sintering process : Current research status and perspectives[J]. The Canadian Journal of Chemical Engineering, no. October, pp. 1–17, 2022.
-
 If you find the data and code useful in your research, please cite the corresponding paper above.
 
 # Notice 
